@@ -17,7 +17,7 @@ Script en Python que simula de principio a fin la Copa Mundial de la FIFA 2026: 
 - [pandas](https://pandas.pydata.org/) (`pip install pandas`)
 - Módulos estándar ya incluidos en Python: `random`, `csv`, `math`
 
-## Archivo de entrada: `df_gemaldini.csv`
+## Archivo de entrada: `datos_selecciones.csv`
 
 El script espera, en el mismo directorio, un CSV histórico de ratings Elo con (al menos) estas columnas:
 
