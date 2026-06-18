@@ -143,42 +143,44 @@ Para tener una idea de qué tan bien refleja el modelo las fuerzas reales de cad
  
 | País | Veces campeón | Porcentaje |
 |---|---|---|
-| España | 3214 | 32.14% |
-| Francia | 2204 | 22.04% |
-| Inglaterra | 1026 | 10.26% |
-| Portugal | 881 | 8.81% |
-| Argentina | 668 | 6.68% |
-| Croacia | 313 | 3.13% |
-| Noruega | 235 | 2.35% |
-| Turquía | 219 | 2.19% |
-| Países Bajos | 210 | 2.10% |
-| Suiza | 175 | 1.75% |
-| Alemania | 164 | 1.64% |
-| Bélgica | 161 | 1.61% |
-| Brasil | 124 | 1.24% |
-| Ecuador | 76 | 0.76% |
-| Colombia | 73 | 0.73% |
-| Austria | 54 | 0.54% |
-| Uruguay | 51 | 0.51% |
-| Paraguay | 23 | 0.23% |
-| México | 22 | 0.22% |
-| Suecia | 18 | 0.18% |
-| Marruecos | 16 | 0.16% |
-| Escocia | 16 | 0.16% |
-| Japón | 12 | 0.12% |
-| República Checa | 9 | 0.09% |
-| Senegal | 8 | 0.08% |
-| Irán | 6 | 0.06% |
-| Corea del Sur | 5 | 0.05% |
-| Australia | 5 | 0.05% |
-| Uzbekistán | 3 | 0.03% |
-| Canadá | 2 | 0.02% |
-| Panamá | 2 | 0.02% |
-| Costa de Marfil | 1 | 0.01% |
-| Egipto | 1 | 0.01% |
-| RD Congo | 1 | 0.01% |
-| Estados Unidos | 1 | 0.01% |
-| Bosnia y Herzegovina | 1 | 0.01% |
+| SPAIN | 2394 | 23.94% |
+| ARGENTINA | 1811 | 18.11% |
+| FRANCE | 1332 | 13.32% |
+| ENGLAND | 545 | 5.45% |
+| BRAZIL | 462 | 4.62% |
+| PORTUGAL | 433 | 4.33% |
+| NETHERLANDS | 404 | 4.04% |
+| COLOMBIA | 356 | 3.56% |
+| ECUADOR | 352 | 3.52% |
+| GERMANY | 347 | 3.47% |
+| CROATIA | 267 | 2.67% |
+| TURKEY | 171 | 1.71% |
+| URUGUAY | 167 | 1.67% |
+| SWITZERLAND | 165 | 1.65% |
+| BELGIUM | 132 | 1.32% |
+| MEXICO | 107 | 1.07% |
+| JAPAN | 103 | 1.03% |
+| NORWAY | 78 | 0.78% |
+| PARAGUAY | 70 | 0.70% |
+| MOROCCO | 69 | 0.69% |
+| AUSTRIA | 48 | 0.48% |
+| SENEGAL | 38 | 0.38% |
+| SOUTH KOREA | 27 | 0.27% |
+| CANADA | 22 | 0.22% |
+| IRAN | 19 | 0.19% |
+| AUSTRALIA | 17 | 0.17% |
+| SWEDEN | 13 | 0.13% |
+| CZECH REPUBLIC | 11 | 0.11% |
+| PANAMA | 8 | 0.08% |
+| SCOTLAND | 8 | 0.08% |
+| UNITED STATES | 5 | 0.05% |
+| ALGERIA | 5 | 0.05% |
+| UZBEKISTAN | 5 | 0.05% |
+| EGYPT | 3 | 0.03% |
+| IVORY COAST | 2 | 0.02% |
+| DR CONGO | 2 | 0.02% |
+| JORDAN | 1 | 0.01% |
+| IRAQ | 1 | 0.01% |
  
 España, Francia e Inglaterra concentran más del 64% de los títulos, lo cual es coherente con que parten con los ratings Elo más altos del conjunto. En el extremo opuesto, selecciones con Elo bajo como Costa de Marfil, Egipto, RD Congo, Estados Unidos o Bosnia y Herzegovina solo ganaron 1 de las 10.000 simulaciones, pero el modelo nunca las deja en un 0% absoluto: siempre conservan una probabilidad mínima de sorpresa, como ocurre en la realidad.
 
