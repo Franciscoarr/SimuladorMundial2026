@@ -1,119 +1,119 @@
 ﻿orden,fase,fecha,sede,estadio,equipo_a,goles_a,goles_b,equipo_b,nota
-1,Grupo A,11 de junio de 2026,Ciudad de México,Estadio Azteca,Mexico,2,1,South Africa,Jornada del Grupo A
-2,Grupo A,11 de junio de 2026,Guadalajara,Estadio Akron,South Korea,0,5,Czech Republic,Jornada del Grupo A
-3,Grupo A,18 de junio de 2026,Atlanta,Mercedes-Benz Stadium,Czech Republic,1,0,South Africa,Jornada del Grupo A
-4,Grupo A,18 de junio de 2026,Guadalajara,Estadio Akron,Mexico,0,1,South Korea,Jornada del Grupo A
-5,Grupo A,24 de junio de 2026,Ciudad de México,Estadio Azteca,Czech Republic,2,2,Mexico,Jornada del Grupo A
-6,Grupo A,24 de junio de 2026,Monterrey,Estadio BBVA,South Africa,0,1,South Korea,Jornada del Grupo A
-7,Cierre Grupo A,,,,,,,,1º Czech Republic; 2º South Korea; 3º Mexico; 4º South Africa
-8,Grupo B,12 de junio de 2026,Toronto,BMO Field,Canada,0,0,Bosnia and Herzegovina,Jornada del Grupo B
-9,Grupo B,13 de junio de 2026,San Francisco,Levi's Stadium,Qatar,0,2,Switzerland,Jornada del Grupo B
-10,Grupo B,18 de junio de 2026,Los Ángeles,SoFi Stadium,Switzerland,2,1,Bosnia and Herzegovina,Jornada del Grupo B
-11,Grupo B,18 de junio de 2026,Vancouver,BC Place,Canada,4,3,Qatar,Jornada del Grupo B
-12,Grupo B,24 de junio de 2026,Vancouver,BC Place,Switzerland,2,1,Canada,Jornada del Grupo B
-13,Grupo B,24 de junio de 2026,Seattle,Lumen Field,Bosnia and Herzegovina,1,0,Qatar,Jornada del Grupo B
-14,Cierre Grupo B,,,,,,,,1º Switzerland; 2º Canada; 3º Bosnia and Herzegovina; 4º Qatar
-15,Grupo C,13 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Brazil,0,0,Morocco,Jornada del Grupo C
-16,Grupo C,13 de junio de 2026,Boston,Gillette Stadium,Haiti,2,0,Scotland,Jornada del Grupo C
-17,Grupo C,19 de junio de 2026,Filadelfia,Lincoln Financial Field,Brazil,3,0,Haiti,Jornada del Grupo C
-18,Grupo C,19 de junio de 2026,Boston,Gillette Stadium,Scotland,4,1,Morocco,Jornada del Grupo C
-19,Grupo C,24 de junio de 2026,Miami,Hard Rock Stadium,Scotland,0,0,Brazil,Jornada del Grupo C
-20,Grupo C,24 de junio de 2026,Atlanta,Mercedes-Benz Stadium,Morocco,1,0,Haiti,Jornada del Grupo C
-21,Cierre Grupo C,,,,,,,,1º Brazil; 2º Scotland; 3º Morocco; 4º Haiti
-22,Grupo D,12 de junio de 2026,Los Ángeles,SoFi Stadium,United States,2,1,Paraguay,Jornada del Grupo D
-23,Grupo D,13 de junio de 2026,Vancouver,BC Place,Australia,2,5,Turkey,Jornada del Grupo D
-24,Grupo D,19 de junio de 2026,San Francisco,Levi's Stadium,Turkey,0,1,Paraguay,Jornada del Grupo D
-25,Grupo D,19 de junio de 2026,Seattle,Lumen Field,United States,2,3,Australia,Jornada del Grupo D
+1,Grupo A,11 de junio de 2026,Ciudad de México,Estadio Azteca,Mexico,2,0,South Africa,Jornada del Grupo A
+2,Grupo A,11 de junio de 2026,Guadalajara,Estadio Akron,South Korea,2,0,Czech Republic,Jornada del Grupo A
+3,Grupo A,18 de junio de 2026,Atlanta,Mercedes-Benz Stadium,Czech Republic,2,0,South Africa,Jornada del Grupo A
+4,Grupo A,18 de junio de 2026,Guadalajara,Estadio Akron,Mexico,2,1,South Korea,Jornada del Grupo A
+5,Grupo A,24 de junio de 2026,Ciudad de México,Estadio Azteca,Czech Republic,1,2,Mexico,Jornada del Grupo A
+6,Grupo A,24 de junio de 2026,Monterrey,Estadio BBVA,South Africa,0,3,South Korea,Jornada del Grupo A
+7,Cierre Grupo A,,,,,,,,1º Mexico; 2º South Korea; 3º Czech Republic; 4º South Africa
+8,Grupo B,12 de junio de 2026,Toronto,BMO Field,Canada,3,0,Bosnia and Herzegovina,Jornada del Grupo B
+9,Grupo B,13 de junio de 2026,San Francisco,Levi's Stadium,Qatar,0,7,Switzerland,Jornada del Grupo B
+10,Grupo B,18 de junio de 2026,Los Ángeles,SoFi Stadium,Switzerland,1,1,Bosnia and Herzegovina,Jornada del Grupo B
+11,Grupo B,18 de junio de 2026,Vancouver,BC Place,Canada,2,0,Qatar,Jornada del Grupo B
+12,Grupo B,24 de junio de 2026,Vancouver,BC Place,Switzerland,2,2,Canada,Jornada del Grupo B
+13,Grupo B,24 de junio de 2026,Seattle,Lumen Field,Bosnia and Herzegovina,1,2,Qatar,Jornada del Grupo B
+14,Cierre Grupo B,,,,,,,,1º Canada; 2º Switzerland; 3º Qatar; 4º Bosnia and Herzegovina
+15,Grupo C,13 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Brazil,3,0,Morocco,Jornada del Grupo C
+16,Grupo C,13 de junio de 2026,Boston,Gillette Stadium,Haiti,0,3,Scotland,Jornada del Grupo C
+17,Grupo C,19 de junio de 2026,Filadelfia,Lincoln Financial Field,Brazil,4,1,Haiti,Jornada del Grupo C
+18,Grupo C,19 de junio de 2026,Boston,Gillette Stadium,Scotland,0,2,Morocco,Jornada del Grupo C
+19,Grupo C,24 de junio de 2026,Miami,Hard Rock Stadium,Scotland,1,3,Brazil,Jornada del Grupo C
+20,Grupo C,24 de junio de 2026,Atlanta,Mercedes-Benz Stadium,Morocco,5,1,Haiti,Jornada del Grupo C
+21,Cierre Grupo C,,,,,,,,1º Brazil; 2º Morocco; 3º Scotland; 4º Haiti
+22,Grupo D,12 de junio de 2026,Los Ángeles,SoFi Stadium,United States,0,2,Paraguay,Jornada del Grupo D
+23,Grupo D,13 de junio de 2026,Vancouver,BC Place,Australia,0,1,Turkey,Jornada del Grupo D
+24,Grupo D,19 de junio de 2026,San Francisco,Levi's Stadium,Turkey,1,1,Paraguay,Jornada del Grupo D
+25,Grupo D,19 de junio de 2026,Seattle,Lumen Field,United States,0,1,Australia,Jornada del Grupo D
 26,Grupo D,25 de junio de 2026,Los Ángeles,SoFi Stadium,Turkey,2,2,United States,Jornada del Grupo D
-27,Grupo D,25 de junio de 2026,San Francisco,Levi's Stadium,Paraguay,5,1,Australia,Jornada del Grupo D
-28,Cierre Grupo D,,,,,,,,1º Paraguay; 2º Turkey; 3º United States; 4º Australia
-29,Grupo E,14 de junio de 2026,Houston,NRG Stadium,Germany,1,0,Curaçao,Jornada del Grupo E
-30,Grupo E,14 de junio de 2026,Filadelfia,Lincoln Financial Field,Ivory Coast,2,2,Ecuador,Jornada del Grupo E
-31,Grupo E,20 de junio de 2026,Toronto,BMO Field,Germany,2,0,Ivory Coast,Jornada del Grupo E
+27,Grupo D,25 de junio de 2026,San Francisco,Levi's Stadium,Paraguay,0,0,Australia,Jornada del Grupo D
+28,Cierre Grupo D,,,,,,,,1º Paraguay; 2º Turkey; 3º Australia; 4º United States
+29,Grupo E,14 de junio de 2026,Houston,NRG Stadium,Germany,2,1,Curaçao,Jornada del Grupo E
+30,Grupo E,14 de junio de 2026,Filadelfia,Lincoln Financial Field,Ivory Coast,0,2,Ecuador,Jornada del Grupo E
+31,Grupo E,20 de junio de 2026,Toronto,BMO Field,Germany,2,1,Ivory Coast,Jornada del Grupo E
 32,Grupo E,20 de junio de 2026,Kansas City,Arrowhead Stadium,Ecuador,2,1,Curaçao,Jornada del Grupo E
-33,Grupo E,25 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Ecuador,2,0,Germany,Jornada del Grupo E
-34,Grupo E,25 de junio de 2026,Filadelfia,Lincoln Financial Field,Curaçao,1,2,Ivory Coast,Jornada del Grupo E
+33,Grupo E,25 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Ecuador,1,1,Germany,Jornada del Grupo E
+34,Grupo E,25 de junio de 2026,Filadelfia,Lincoln Financial Field,Curaçao,0,2,Ivory Coast,Jornada del Grupo E
 35,Cierre Grupo E,,,,,,,,1º Ecuador; 2º Germany; 3º Ivory Coast; 4º Curaçao
-36,Grupo F,14 de junio de 2026,Dallas,AT&T Stadium,Netherlands,2,1,Japan,Jornada del Grupo F
-37,Grupo F,14 de junio de 2026,Monterrey,Estadio BBVA,Sweden,4,1,Tunisia,Jornada del Grupo F
-38,Grupo F,20 de junio de 2026,Houston,NRG Stadium,Netherlands,1,1,Sweden,Jornada del Grupo F
-39,Grupo F,20 de junio de 2026,Monterrey,Estadio BBVA,Tunisia,1,2,Japan,Jornada del Grupo F
-40,Grupo F,25 de junio de 2026,Dallas,AT&T Stadium,Japan,2,2,Sweden,Jornada del Grupo F
-41,Grupo F,25 de junio de 2026,Kansas City,Arrowhead Stadium,Tunisia,0,4,Netherlands,Jornada del Grupo F
-42,Cierre Grupo F,,,,,,,,1º Netherlands; 2º Sweden; 3º Japan; 4º Tunisia
-43,Grupo G,15 de junio de 2026,Seattle,Lumen Field,Belgium,1,0,Egypt,Jornada del Grupo G
-44,Grupo G,15 de junio de 2026,Los Ángeles,SoFi Stadium,Iran,1,0,New Zealand,Jornada del Grupo G
-45,Grupo G,21 de junio de 2026,Los Ángeles,SoFi Stadium,Belgium,1,1,Iran,Jornada del Grupo G
-46,Grupo G,21 de junio de 2026,Vancouver,BC Place,New Zealand,1,4,Egypt,Jornada del Grupo G
-47,Grupo G,26 de junio de 2026,Vancouver,BC Place,New Zealand,0,2,Belgium,Jornada del Grupo G
-48,Grupo G,26 de junio de 2026,Seattle,Lumen Field,Egypt,1,1,Iran,Jornada del Grupo G
-49,Cierre Grupo G,,,,,,,,1º Belgium; 2º Iran; 3º Egypt; 4º New Zealand
-50,Grupo H,15 de junio de 2026,Atlanta,Mercedes-Benz Stadium,Spain,1,0,Cape Verde,Jornada del Grupo H
-51,Grupo H,15 de junio de 2026,Miami,Hard Rock Stadium,Saudi Arabia,0,1,Uruguay,Jornada del Grupo H
+36,Grupo F,14 de junio de 2026,Dallas,AT&T Stadium,Netherlands,2,2,Japan,Jornada del Grupo F
+37,Grupo F,14 de junio de 2026,Monterrey,Estadio BBVA,Sweden,2,0,Tunisia,Jornada del Grupo F
+38,Grupo F,20 de junio de 2026,Houston,NRG Stadium,Netherlands,0,1,Sweden,Jornada del Grupo F
+39,Grupo F,20 de junio de 2026,Monterrey,Estadio BBVA,Tunisia,0,4,Japan,Jornada del Grupo F
+40,Grupo F,25 de junio de 2026,Dallas,AT&T Stadium,Japan,1,1,Sweden,Jornada del Grupo F
+41,Grupo F,25 de junio de 2026,Kansas City,Arrowhead Stadium,Tunisia,0,1,Netherlands,Jornada del Grupo F
+42,Cierre Grupo F,,,,,,,,1º Sweden; 2º Japan; 3º Netherlands; 4º Tunisia
+43,Grupo G,15 de junio de 2026,Seattle,Lumen Field,Belgium,3,2,Egypt,Jornada del Grupo G
+44,Grupo G,15 de junio de 2026,Los Ángeles,SoFi Stadium,Iran,1,2,New Zealand,Jornada del Grupo G
+45,Grupo G,21 de junio de 2026,Los Ángeles,SoFi Stadium,Belgium,1,2,Iran,Jornada del Grupo G
+46,Grupo G,21 de junio de 2026,Vancouver,BC Place,New Zealand,0,0,Egypt,Jornada del Grupo G
+47,Grupo G,26 de junio de 2026,Vancouver,BC Place,New Zealand,1,2,Belgium,Jornada del Grupo G
+48,Grupo G,26 de junio de 2026,Seattle,Lumen Field,Egypt,0,2,Iran,Jornada del Grupo G
+49,Cierre Grupo G,,,,,,,,1º Iran; 2º Belgium; 3º New Zealand; 4º Egypt
+50,Grupo H,15 de junio de 2026,Atlanta,Mercedes-Benz Stadium,Spain,3,1,Cape Verde,Jornada del Grupo H
+51,Grupo H,15 de junio de 2026,Miami,Hard Rock Stadium,Saudi Arabia,1,1,Uruguay,Jornada del Grupo H
 52,Grupo H,21 de junio de 2026,Atlanta,Mercedes-Benz Stadium,Spain,2,2,Saudi Arabia,Jornada del Grupo H
-53,Grupo H,21 de junio de 2026,Miami,Hard Rock Stadium,Uruguay,2,0,Cape Verde,Jornada del Grupo H
-54,Grupo H,26 de junio de 2026,Guadalajara,Estadio Akron,Uruguay,0,1,Spain,Jornada del Grupo H
-55,Grupo H,26 de junio de 2026,Houston,NRG Stadium,Cape Verde,1,3,Saudi Arabia,Jornada del Grupo H
-56,Cierre Grupo H,,,,,,,,1º Spain; 2º Uruguay; 3º Saudi Arabia; 4º Cape Verde
-57,Grupo I,16 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,France,5,1,Senegal,Jornada del Grupo I
-58,Grupo I,16 de junio de 2026,Boston,Gillette Stadium,Iraq,1,5,Norway,Jornada del Grupo I
-59,Grupo I,22 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Norway,2,2,Senegal,Jornada del Grupo I
-60,Grupo I,22 de junio de 2026,Filadelfia,Lincoln Financial Field,France,1,0,Iraq,Jornada del Grupo I
-61,Grupo I,26 de junio de 2026,Boston,Gillette Stadium,Norway,1,4,France,Jornada del Grupo I
-62,Grupo I,26 de junio de 2026,Toronto,BMO Field,Senegal,0,1,Iraq,Jornada del Grupo I
-63,Cierre Grupo I,,,,,,,,1º France; 2º Norway; 3º Iraq; 4º Senegal
-64,Grupo J,16 de junio de 2026,Kansas City,Arrowhead Stadium,Argentina,1,0,Algeria,Jornada del Grupo J
-65,Grupo J,16 de junio de 2026,San Francisco,Levi's Stadium,Austria,0,1,Jordan,Jornada del Grupo J
-66,Grupo J,22 de junio de 2026,Dallas,AT&T Stadium,Argentina,1,0,Austria,Jornada del Grupo J
-67,Grupo J,22 de junio de 2026,San Francisco,Levi's Stadium,Jordan,1,1,Algeria,Jornada del Grupo J
-68,Grupo J,27 de junio de 2026,Dallas,AT&T Stadium,Jordan,0,2,Argentina,Jornada del Grupo J
-69,Grupo J,27 de junio de 2026,Kansas City,Arrowhead Stadium,Algeria,3,5,Austria,Jornada del Grupo J
-70,Cierre Grupo J,,,,,,,,1º Argentina; 2º Jordan; 3º Austria; 4º Algeria
-71,Grupo K,17 de junio de 2026,Houston,NRG Stadium,Portugal,4,1,DR Congo,Jornada del Grupo K
-72,Grupo K,17 de junio de 2026,Ciudad de México,Estadio Azteca,Uzbekistan,2,0,Colombia,Jornada del Grupo K
-73,Grupo K,23 de junio de 2026,Houston,NRG Stadium,Portugal,4,2,Uzbekistan,Jornada del Grupo K
-74,Grupo K,23 de junio de 2026,Guadalajara,Estadio Akron,Colombia,1,3,DR Congo,Jornada del Grupo K
-75,Grupo K,27 de junio de 2026,Miami,Hard Rock Stadium,Colombia,3,0,Portugal,Jornada del Grupo K
-76,Grupo K,27 de junio de 2026,Atlanta,Mercedes-Benz Stadium,DR Congo,3,2,Uzbekistan,Jornada del Grupo K
-77,Cierre Grupo K,,,,,,,,1º Portugal; 2º DR Congo; 3º Uzbekistan; 4º Colombia
-78,Grupo L,17 de junio de 2026,Dallas,AT&T Stadium,England,4,0,Croatia,Jornada del Grupo L
+53,Grupo H,21 de junio de 2026,Miami,Hard Rock Stadium,Uruguay,1,0,Cape Verde,Jornada del Grupo H
+54,Grupo H,26 de junio de 2026,Guadalajara,Estadio Akron,Uruguay,1,2,Spain,Jornada del Grupo H
+55,Grupo H,26 de junio de 2026,Houston,NRG Stadium,Cape Verde,2,1,Saudi Arabia,Jornada del Grupo H
+56,Cierre Grupo H,,,,,,,,1º Spain; 2º Uruguay; 3º Cape Verde; 4º Saudi Arabia
+57,Grupo I,16 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,France,2,0,Senegal,Jornada del Grupo I
+58,Grupo I,16 de junio de 2026,Boston,Gillette Stadium,Iraq,2,3,Norway,Jornada del Grupo I
+59,Grupo I,22 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Norway,2,0,Senegal,Jornada del Grupo I
+60,Grupo I,22 de junio de 2026,Filadelfia,Lincoln Financial Field,France,1,2,Iraq,Jornada del Grupo I
+61,Grupo I,26 de junio de 2026,Boston,Gillette Stadium,Norway,3,3,France,Jornada del Grupo I
+62,Grupo I,26 de junio de 2026,Toronto,BMO Field,Senegal,3,1,Iraq,Jornada del Grupo I
+63,Cierre Grupo I,,,,,,,,1º Norway; 2º France; 3º Iraq; 4º Senegal
+64,Grupo J,16 de junio de 2026,Kansas City,Arrowhead Stadium,Argentina,2,1,Algeria,Jornada del Grupo J
+65,Grupo J,16 de junio de 2026,San Francisco,Levi's Stadium,Austria,1,0,Jordan,Jornada del Grupo J
+66,Grupo J,22 de junio de 2026,Dallas,AT&T Stadium,Argentina,0,0,Austria,Jornada del Grupo J
+67,Grupo J,22 de junio de 2026,San Francisco,Levi's Stadium,Jordan,2,0,Algeria,Jornada del Grupo J
+68,Grupo J,27 de junio de 2026,Dallas,AT&T Stadium,Jordan,0,4,Argentina,Jornada del Grupo J
+69,Grupo J,27 de junio de 2026,Kansas City,Arrowhead Stadium,Algeria,1,4,Austria,Jornada del Grupo J
+70,Cierre Grupo J,,,,,,,,1º Argentina; 2º Austria; 3º Jordan; 4º Algeria
+71,Grupo K,17 de junio de 2026,Houston,NRG Stadium,Portugal,0,1,DR Congo,Jornada del Grupo K
+72,Grupo K,17 de junio de 2026,Ciudad de México,Estadio Azteca,Uzbekistan,0,1,Colombia,Jornada del Grupo K
+73,Grupo K,23 de junio de 2026,Houston,NRG Stadium,Portugal,1,0,Uzbekistan,Jornada del Grupo K
+74,Grupo K,23 de junio de 2026,Guadalajara,Estadio Akron,Colombia,2,1,DR Congo,Jornada del Grupo K
+75,Grupo K,27 de junio de 2026,Miami,Hard Rock Stadium,Colombia,1,1,Portugal,Jornada del Grupo K
+76,Grupo K,27 de junio de 2026,Atlanta,Mercedes-Benz Stadium,DR Congo,2,2,Uzbekistan,Jornada del Grupo K
+77,Cierre Grupo K,,,,,,,,1º Colombia; 2º DR Congo; 3º Portugal; 4º Uzbekistan
+78,Grupo L,17 de junio de 2026,Dallas,AT&T Stadium,England,2,1,Croatia,Jornada del Grupo L
 79,Grupo L,17 de junio de 2026,Toronto,BMO Field,Ghana,0,1,Panama,Jornada del Grupo L
-80,Grupo L,23 de junio de 2026,Boston,Gillette Stadium,England,2,1,Ghana,Jornada del Grupo L
-81,Grupo L,23 de junio de 2026,Toronto,BMO Field,Panama,0,2,Croatia,Jornada del Grupo L
-82,Grupo L,27 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Panama,2,1,England,Jornada del Grupo L
-83,Grupo L,27 de junio de 2026,Filadelfia,Lincoln Financial Field,Croatia,2,1,Ghana,Jornada del Grupo L
-84,Cierre Grupo L,,,,,,,,1º England; 2º Panama; 3º Croatia; 4º Ghana
-85,Mejores terceros,,,,,,,,1. Croatia (3ºL); 2. Egypt (3ºG); 3. Saudi Arabia (3ºH); 4. United States (3ºD); 5. Japan (3ºF); 6. Mexico (3ºA); 7. Bosnia and Herzegovina (3ºB); 8. Ivory Coast (3ºE)
-86,DIECISEISAVOS,28 de junio de 2026,Los Ángeles,SoFi Stadium,South Korea,0,3,Canada,DIECISEISAVOS - partido 73
-87,DIECISEISAVOS,29 de junio de 2026,Boston,Gillette Stadium,Ecuador,2,0,Mexico,DIECISEISAVOS - partido 74
-88,DIECISEISAVOS,29 de junio de 2026,Monterrey,Estadio Monterrey,Netherlands,5,0,Scotland,DIECISEISAVOS - partido 75
-89,DIECISEISAVOS,29 de junio de 2026,Houston,NRG Stadium,Brazil,3,2,Sweden,DIECISEISAVOS - partido 76
-90,DIECISEISAVOS,30 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,France,3,1,United States,DIECISEISAVOS - partido 77
-91,DIECISEISAVOS,30 de junio de 2026,Dallas,AT&T Stadium,Germany,0,1,Norway,DIECISEISAVOS - partido 78
-92,DIECISEISAVOS,30 de junio de 2026,Ciudad de México,Estadio Azteca,Czech Republic,3,0,Ivory Coast,DIECISEISAVOS - partido 79
-93,DIECISEISAVOS,1 de julio de 2026,Atlanta,Mercedes-Benz Stadium,England,3,1,Saudi Arabia,DIECISEISAVOS - partido 80
-94,DIECISEISAVOS,1 de julio de 2026,San Francisco,Levi's Stadium,Paraguay,2,0,Bosnia and Herzegovina,DIECISEISAVOS - partido 81
-95,DIECISEISAVOS,1 de julio de 2026,Seattle,Lumen Field,Belgium,1,3,Croatia,DIECISEISAVOS - partido 82
-96,DIECISEISAVOS,2 de julio de 2026,Toronto,Estadio Nacional de Canadá,DR Congo,2,1,Panama,DIECISEISAVOS - partido 83
-97,DIECISEISAVOS,2 de julio de 2026,Los Ángeles,SoFi Stadium,Spain,2,0,Jordan,DIECISEISAVOS - partido 84
-98,DIECISEISAVOS,2 de julio de 2026,Vancouver,BC Place,Switzerland,3,0,Japan,DIECISEISAVOS - partido 85
-99,DIECISEISAVOS,3 de julio de 2026,Miami,Hard Rock Stadium,Argentina,2,1,Uruguay,DIECISEISAVOS - partido 86
-100,DIECISEISAVOS,3 de julio de 2026,Kansas City,Arrowhead Stadium,Portugal,0,3,Egypt,DIECISEISAVOS - partido 87
-101,DIECISEISAVOS,3 de julio de 2026,Dallas,AT&T Stadium,Turkey,2,1,Iran,DIECISEISAVOS - partido 88
-102,OCTAVOS DE FINAL,4 de julio de 2026,Filadelfia,Lincoln Financial Field,Ecuador,1,2,France,OCTAVOS DE FINAL - partido 89
-103,OCTAVOS DE FINAL,4 de julio de 2026,Houston,NRG Stadium,Canada,0,5,Netherlands,OCTAVOS DE FINAL - partido 90
-104,OCTAVOS DE FINAL,5 de julio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Brazil,0,2,Norway,OCTAVOS DE FINAL - partido 91
-105,OCTAVOS DE FINAL,5 de julio de 2026,Ciudad de México,Estadio Azteca,Czech Republic,1,2,England,OCTAVOS DE FINAL - partido 92
-106,OCTAVOS DE FINAL,6 de julio de 2026,Dallas,AT&T Stadium,DR Congo,1,4,Spain,OCTAVOS DE FINAL - partido 93
-107,OCTAVOS DE FINAL,6 de julio de 2026,Seattle,Lumen Field,Paraguay,1,3,Croatia,OCTAVOS DE FINAL - partido 94
-108,OCTAVOS DE FINAL,7 de julio de 2026,Atlanta,Mercedes-Benz Stadium,Argentina,0,1,Turkey,OCTAVOS DE FINAL - partido 95
-109,OCTAVOS DE FINAL,7 de julio de 2026,Vancouver,BC Place,Switzerland,0,2,Egypt,OCTAVOS DE FINAL - partido 96
-110,CUARTOS DE FINAL,9 de julio de 2026,Boston,Gillette Stadium,France,3,0,Netherlands,CUARTOS DE FINAL - partido 97
-111,CUARTOS DE FINAL,10 de julio de 2026,Los Ángeles,SoFi Stadium,Spain,0,1,Croatia,CUARTOS DE FINAL - partido 98
-112,CUARTOS DE FINAL,11 de julio de 2026,Miami,Hard Rock Stadium,Norway,2,0,England,CUARTOS DE FINAL - partido 99
-113,CUARTOS DE FINAL,11 de julio de 2026,Kansas City,Arrowhead Stadium,Turkey,5,0,Egypt,CUARTOS DE FINAL - partido 100
-114,SEMIFINALES,14 de julio de 2026,Dallas,AT&T Stadium,France,2,1,Croatia,SEMIFINALES - partido 101
-115,SEMIFINALES,15 de julio de 2026,Atlanta,Mercedes-Benz Stadium,Norway,1,2,Turkey,SEMIFINALES - partido 102
-116,TERCER PUESTO,18 de julio de 2026,Miami,Hard Rock Stadium,Croatia,0,2,Norway,TERCER PUESTO - partido 103
-117,FINAL,19 de julio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,France,3,1,Turkey,FINAL - partido 104
-118,Podio,,,,,,,,1º France; 2º Turkey; 3º Norway
+80,Grupo L,23 de junio de 2026,Boston,Gillette Stadium,England,3,1,Ghana,Jornada del Grupo L
+81,Grupo L,23 de junio de 2026,Toronto,BMO Field,Panama,0,1,Croatia,Jornada del Grupo L
+82,Grupo L,27 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Panama,0,2,England,Jornada del Grupo L
+83,Grupo L,27 de junio de 2026,Filadelfia,Lincoln Financial Field,Croatia,2,0,Ghana,Jornada del Grupo L
+84,Cierre Grupo L,,,,,,,,1º England; 2º Croatia; 3º Panama; 4º Ghana
+85,Mejores terceros,,,,,,,,1. Netherlands (3ºF); 2. New Zealand (3ºG); 3. Portugal (3ºK); 4. Australia (3ºD); 5. Scotland (3ºC); 6. Czech Republic (3ºA); 7. Ivory Coast (3ºE); 8. Iraq (3ºI)
+86,DIECISEISAVOS,28 de junio de 2026,Los Ángeles,SoFi Stadium,South Korea,1,3,Switzerland,DIECISEISAVOS - partido 73
+87,DIECISEISAVOS,29 de junio de 2026,Boston,Gillette Stadium,Ecuador,1,0,Czech Republic,DIECISEISAVOS - partido 74
+88,DIECISEISAVOS,29 de junio de 2026,Monterrey,Estadio Monterrey,Sweden,2,0,Morocco,DIECISEISAVOS - partido 75
+89,DIECISEISAVOS,29 de junio de 2026,Houston,NRG Stadium,Brazil,1,0,Japan,DIECISEISAVOS - partido 76
+90,DIECISEISAVOS,30 de junio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Norway,2,1,Scotland,DIECISEISAVOS - partido 77
+91,DIECISEISAVOS,30 de junio de 2026,Dallas,AT&T Stadium,Germany,0,3,France,DIECISEISAVOS - partido 78
+92,DIECISEISAVOS,30 de junio de 2026,Ciudad de México,Estadio Azteca,Mexico,1,3,Ivory Coast,DIECISEISAVOS - partido 79
+93,DIECISEISAVOS,1 de julio de 2026,Atlanta,Mercedes-Benz Stadium,England,3,0,Iraq,DIECISEISAVOS - partido 80
+94,DIECISEISAVOS,1 de julio de 2026,San Francisco,Levi's Stadium,Paraguay,2,1,Netherlands,DIECISEISAVOS - partido 81
+95,DIECISEISAVOS,1 de julio de 2026,Seattle,Lumen Field,Iran,2,0,New Zealand,DIECISEISAVOS - partido 82
+96,DIECISEISAVOS,2 de julio de 2026,Toronto,Estadio Nacional de Canadá,DR Congo,0,3,Croatia,DIECISEISAVOS - partido 83
+97,DIECISEISAVOS,2 de julio de 2026,Los Ángeles,SoFi Stadium,Spain,2,1,Austria,DIECISEISAVOS - partido 84
+98,DIECISEISAVOS,2 de julio de 2026,Vancouver,BC Place,Canada,1,3,Portugal,DIECISEISAVOS - partido 85
+99,DIECISEISAVOS,3 de julio de 2026,Miami,Hard Rock Stadium,Argentina,5,1,Uruguay,DIECISEISAVOS - partido 86
+100,DIECISEISAVOS,3 de julio de 2026,Kansas City,Arrowhead Stadium,Colombia,3,0,Australia,DIECISEISAVOS - partido 87
+101,DIECISEISAVOS,3 de julio de 2026,Dallas,AT&T Stadium,Turkey,1,0,Belgium,DIECISEISAVOS - partido 88
+102,OCTAVOS DE FINAL,4 de julio de 2026,Filadelfia,Lincoln Financial Field,Ecuador,0,1,Norway,OCTAVOS DE FINAL - partido 89
+103,OCTAVOS DE FINAL,4 de julio de 2026,Houston,NRG Stadium,Switzerland,0,4,Sweden,OCTAVOS DE FINAL - partido 90
+104,OCTAVOS DE FINAL,5 de julio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Brazil,0,2,France,OCTAVOS DE FINAL - partido 91
+105,OCTAVOS DE FINAL,5 de julio de 2026,Ciudad de México,Estadio Azteca,Ivory Coast,0,4,England,OCTAVOS DE FINAL - partido 92
+106,OCTAVOS DE FINAL,6 de julio de 2026,Dallas,AT&T Stadium,Croatia,0,1,Spain,OCTAVOS DE FINAL - partido 93
+107,OCTAVOS DE FINAL,6 de julio de 2026,Seattle,Lumen Field,Paraguay,0,1,Iran,OCTAVOS DE FINAL - partido 94
+108,OCTAVOS DE FINAL,7 de julio de 2026,Atlanta,Mercedes-Benz Stadium,Argentina,2,0,Turkey,OCTAVOS DE FINAL - partido 95
+109,OCTAVOS DE FINAL,7 de julio de 2026,Vancouver,BC Place,Portugal,1,0,Colombia,OCTAVOS DE FINAL - partido 96
+110,CUARTOS DE FINAL,9 de julio de 2026,Boston,Gillette Stadium,Norway,1,0,Sweden,CUARTOS DE FINAL - partido 97
+111,CUARTOS DE FINAL,10 de julio de 2026,Los Ángeles,SoFi Stadium,Spain,1,0,Iran,CUARTOS DE FINAL - partido 98
+112,CUARTOS DE FINAL,11 de julio de 2026,Miami,Hard Rock Stadium,France,1,2,England,CUARTOS DE FINAL - partido 99
+113,CUARTOS DE FINAL,11 de julio de 2026,Kansas City,Arrowhead Stadium,Argentina,1,2,Portugal,CUARTOS DE FINAL - partido 100
+114,SEMIFINALES,14 de julio de 2026,Dallas,AT&T Stadium,Norway,1,2,Spain,SEMIFINALES - partido 101
+115,SEMIFINALES,15 de julio de 2026,Atlanta,Mercedes-Benz Stadium,England,1,3,Portugal,SEMIFINALES - partido 102
+116,TERCER PUESTO,18 de julio de 2026,Miami,Hard Rock Stadium,Norway,2,0,England,TERCER PUESTO - partido 103
+117,FINAL,19 de julio de 2026,Nueva York/Nueva Jersey,MetLife Stadium,Spain,2,0,Portugal,FINAL - partido 104
+118,Podio,,,,,,,,1º Spain; 2º Portugal; 3º Norway

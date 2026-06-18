@@ -144,7 +144,7 @@ def jugar_mundial():
         emit("")
 
     # 1. Cargamos el CSV que subiste
-    diccionario_elos = cargar_elos("df_gemaldini.csv", emit=emit)
+    diccionario_elos = cargar_elos("datos_selecciones.csv", emit=emit)
     
     # Plantilla fija de 48 selecciones repartidas en 12 grupos
     equipos_raw = [

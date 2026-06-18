@@ -129,16 +129,61 @@ pip install pandas
 python simulador_mundial.py
 ```
 
-Asegúrate de tener `df_gemaldini.csv` en el mismo directorio que el script antes de ejecutarlo. Al terminar encontrarás `resumen_torneo_mundial2026.csv` junto al script.
+Asegúrate de tener `datos_selecciones.csv` en el mismo directorio que el script antes de ejecutarlo. Al terminar encontrarás `resumen_torneo_mundial2026.csv` junto al script.
 
 ## Personalización
 
-- **Cambiar las fuerzas de los equipos**: edita o sustituye `df_gemaldini.csv` con otros valores de Elo.
+- **Cambiar las fuerzas de los equipos**: edita o sustituye `datos_selecciones.csv` con otros valores de Elo.
 - **Cambiar equipos o grupos**: modifica la lista `equipos_raw` y el diccionario `fixtures_grupos` (debes mantener la coherencia entre ambos: cada equipo debe tener su grupo y sus 6 partidos correspondientes).
 - **Repetir la simulación**: el script no fija una semilla aleatoria (`random.seed`), así que cada ejecución produce un Mundial distinto. Si quieres resultados reproducibles, añade `random.seed(numero)` al principio de `jugar_mundial()`.
+
+## Resultados de 10.000 simulaciones
+ 
+Para tener una idea de qué tan bien refleja el modelo las fuerzas reales de cada selección, se ejecutó el torneo completo **10.000 veces** (en un bucle externo al script, ya que `jugar_mundial()` solo juega un torneo por ejecución) y se contó cuántas veces resultó campeón cada equipo. Estos son los resultados:
+ 
+| País | Veces campeón | Porcentaje |
+|---|---|---|
+| España | 3214 | 32.14% |
+| Francia | 2204 | 22.04% |
+| Inglaterra | 1026 | 10.26% |
+| Portugal | 881 | 8.81% |
+| Argentina | 668 | 6.68% |
+| Croacia | 313 | 3.13% |
+| Noruega | 235 | 2.35% |
+| Turquía | 219 | 2.19% |
+| Países Bajos | 210 | 2.10% |
+| Suiza | 175 | 1.75% |
+| Alemania | 164 | 1.64% |
+| Bélgica | 161 | 1.61% |
+| Brasil | 124 | 1.24% |
+| Ecuador | 76 | 0.76% |
+| Colombia | 73 | 0.73% |
+| Austria | 54 | 0.54% |
+| Uruguay | 51 | 0.51% |
+| Paraguay | 23 | 0.23% |
+| México | 22 | 0.22% |
+| Suecia | 18 | 0.18% |
+| Marruecos | 16 | 0.16% |
+| Escocia | 16 | 0.16% |
+| Japón | 12 | 0.12% |
+| República Checa | 9 | 0.09% |
+| Senegal | 8 | 0.08% |
+| Irán | 6 | 0.06% |
+| Corea del Sur | 5 | 0.05% |
+| Australia | 5 | 0.05% |
+| Uzbekistán | 3 | 0.03% |
+| Canadá | 2 | 0.02% |
+| Panamá | 2 | 0.02% |
+| Costa de Marfil | 1 | 0.01% |
+| Egipto | 1 | 0.01% |
+| RD Congo | 1 | 0.01% |
+| Estados Unidos | 1 | 0.01% |
+| Bosnia y Herzegovina | 1 | 0.01% |
+ 
+España, Francia e Inglaterra concentran más del 64% de los títulos, lo cual es coherente con que parten con los ratings Elo más altos del conjunto. En el extremo opuesto, selecciones con Elo bajo como Costa de Marfil, Egipto, RD Congo, Estados Unidos o Bosnia y Herzegovina solo ganaron 1 de las 10.000 simulaciones, pero el modelo nunca las deja en un 0% absoluto: siempre conservan una probabilidad mínima de sorpresa, como ocurre en la realidad.
 
 ## Limitaciones conocidas
 
 - El desempate de grupo es una simplificación (puntos, diferencia de goles, goles a favor) y no incluye enfrentamiento directo, fair play ni sorteo, criterios que sí usa la FIFA en caso de triple empate exacto.
 - Las etiquetas de "mejor tercero" (`3A/B/C/D/F`, etc.) replican la lógica del bracket oficial de 48 equipos, pero si ninguno de los grupos listados clasifica entre los 8 mejores terceros, el script asigna el mejor tercero libre disponible en su lugar, en vez de replicar exactamente la tabla oficial de combinaciones FIFA.
-- Cualquier selección que no esté en `df_gemaldini.csv` arranca el torneo con un Elo neutral de 1500.
+- Cualquier selección que no esté en `datos_selecciones.csv` arranca el torneo con un Elo neutral de 1500.
