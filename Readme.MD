@@ -139,7 +139,7 @@ Asegúrate de tener `datos_selecciones.csv` en el mismo directorio que el script
 
 ## Resultados de 10.000 simulaciones
  
-Para tener una idea de qué tan bien refleja el modelo las fuerzas reales de cada selección, se ejecutó el torneo completo **10.000 veces** (en un bucle externo al script, ya que `jugar_mundial()` solo juega un torneo por ejecución) y se contó cuántas veces resultó campeón cada equipo. Estos son los resultados:
+Para tener una idea de qué tan bien refleja el modelo las fuerzas reales de cada selección, se ejecutó el torneo completo **10.000 veces** con `simular_multiples_mundiales` (Se puede modificar el valor en `TOTAL_SIMULACIONES`) y se contó cuántas veces resultó campeón cada equipo. Estos son los resultados:
  
 | País | Veces campeón | Porcentaje |
 |---|---|---|
@@ -181,8 +181,6 @@ Para tener una idea de qué tan bien refleja el modelo las fuerzas reales de cad
 | DR CONGO | 2 | 0.02% |
 | JORDAN | 1 | 0.01% |
 | IRAQ | 1 | 0.01% |
- 
-España, Francia e Inglaterra concentran más del 64% de los títulos, lo cual es coherente con que parten con los ratings Elo más altos del conjunto. En el extremo opuesto, selecciones con Elo bajo como Costa de Marfil, Egipto, RD Congo, Estados Unidos o Bosnia y Herzegovina solo ganaron 1 de las 10.000 simulaciones, pero el modelo nunca las deja en un 0% absoluto: siempre conservan una probabilidad mínima de sorpresa, como ocurre en la realidad.
 
 ## Limitaciones conocidas
 
